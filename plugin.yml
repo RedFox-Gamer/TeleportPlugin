@@ -1,0 +1,11 @@
+name: Pearl
+version: 1.0
+main: package me.AdamStark.Pearl
+Author: Adam Stark
+description: Teleport Tool
+ 
+commands:
+    pearl:
+        usage: /<command>
+        aliases: [pearl]
+        description: Teleport to other players.
